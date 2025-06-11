@@ -20,4 +20,19 @@ This repo tracks my progress in AI, data, and Python through weekly projects, ch
 
 ## 📁 Structure
 
+/ai-learning-journey
+/week1
+python_basics.ipynb
+/week2
+ai_reflection.pdf
+/week3
+data_analysis.ipynb
+README.md
+
+ 
+---
+
+## 🌍 Why I'm Learning AI
+
+AI is the future, and I want to be ready for the South African digital economy. This is where my growth starts.
 
